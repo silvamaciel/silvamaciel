@@ -1,5 +1,7 @@
 ### Olá!  Eu sou o Maciel Silva! 😎
 
+<text> Sou Apaixonado por <strong>tecnologia, gestão de pessoas e resolução de problemas.</strong> Estou focado em me tornar <strong>dev full stack</strong> para fundar minha empresa de <strong>softwares ERP.</strong> </text>
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvamaciel/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5581992091467/?t=Ol%C3%A1,%20tenho%20interesse%20em%20seus%20projetos.)
 
@@ -14,5 +16,5 @@
     <img alt="REACT" align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div></Br>
 
-<text> Sou Apaixonado por <strong>tecnologia, gestão de pessoas e resolução de problemas.</strong> Estou focado em me tornar <strong>dev full stack</strong> para fundar minha empresa de <strong>softwares ERP.</strong> </text>
+
 
